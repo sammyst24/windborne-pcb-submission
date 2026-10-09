@@ -8,7 +8,7 @@ I first built and tested the idea using an Arduino, aluminum foil as the capacit
 
 ![PCB Layout](pcb-layout.png)
 
-The PCB helped reduce a lot of the loose wiring from the original prototype and made the connections much easier to follow. It took a lot of time and patience to make all the traces because some of the wires weren't crossing or overlapping so I had to think of a design to optimize where the traces go.
+The PCB helped reduce a lot of the loose wiring from the original prototype and made the connections much easier to follow. Routing the board took some repeition because I had to rearrange traces and component placement to avoid conflicts and keep the layout clean.
 
 ## Schematic
 
@@ -34,4 +34,4 @@ One part of the design I like is how the capacitive sensor connects directly to 
 
 ## Resume
 
-[View Resume](Sammy
+[View Resume](Sammy_Sahtout_Resume.pdf)
