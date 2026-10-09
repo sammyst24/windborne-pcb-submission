@@ -8,7 +8,7 @@ I first built and tested the idea using an Arduino, aluminum foil as the capacit
 
 ![PCB Layout](pcb-layout.png)
 
-The PCB helped reduce a lot of the loose wiring from the original prototype and made the connections much easier to follow. Routing the board took some repeition because I had to rearrange traces and component placement to avoid conflicts and keep the layout clean.
+The PCB helped reduce a lot of the loose wiring from the original prototype and made the connections much easier to follow. Routing the board took some repetition because I had to rearrange traces and component placement to avoid conflicts and keep the layout clean.
 
 ## Schematic
 
